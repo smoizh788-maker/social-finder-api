@@ -1,0 +1,50 @@
+[
+  {
+    "phone": "03001234567",
+    "name": "Moiz Hussain",
+    "accounts": [
+      {
+        "platform": "Instagram",
+        "username": "@moiz123",
+        "url": "https://instagram.com/moiz123",
+        "verified": false
+      },
+      {
+        "platform": "Facebook",
+        "username": "@moiz123",
+        "url": "https://facebook.com/moiz123",
+        "verified": false
+      },
+      {
+        "platform": "TikTok",
+        "username": "@moiz123",
+        "url": "https://tiktok.com/@moiz123",
+        "verified": false
+      },
+      {
+        "platform": "GitHub",
+        "username": "@smoizh788-maker",
+        "url": "https://github.com/smoizh788-maker",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "phone": "03123456789",
+    "name": "Test User",
+    "accounts": [
+      {
+        "platform": "Instagram",
+        "username": "@testuser",
+        "url": "https://instagram.com/testuser",
+        "verified": false
+      },
+      {
+        "platform": "GitHub",
+        "username": "@testuser",
+        "url": "https://github.com/testuser",
+        "verified": true
+      }
+    ]
+  }
+]
